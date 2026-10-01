@@ -1,2 +1,3 @@
 # First.demo
-This is my repo .
+This is my first git repository.
+Author - K.Sai Revanth
